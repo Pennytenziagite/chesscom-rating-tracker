@@ -11,7 +11,6 @@ Made by pennytenziagite for coding practice primarily, all you need to run is a 
 Some further documentation is in the python file, but to choose a user/time control/etc, do so in the settings part of the code.
 
 To do:
-- Add image to readme
 - Move the settings to an external file
 - Check for compatibility with OBS
 - Add further customisation options such as background image, fonts, etc
