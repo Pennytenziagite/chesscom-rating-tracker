@@ -1,5 +1,5 @@
 # chesscom-rating-tracker
-An easy-to-use live rating tracker for following chess.com accounts!
+An easy-to-use live rating tracker for following chess.com accounts, compatible with OBS!
 
 ![tracker readme image](https://github.com/Pennytenziagite/chesscom-rating-tracker/assets/168604911/aa126a89-eb44-4244-9fc9-8e82a6943f6f)
 
@@ -12,7 +12,6 @@ Some further documentation is in the python file, but to choose a user/time cont
 
 To do:
 - Move the settings to an external file
-- Check for compatibility with OBS
 - Add further customisation options such as background image, fonts, etc
 - Add lichess compatibility
 
